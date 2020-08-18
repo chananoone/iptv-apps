@@ -50,7 +50,7 @@
 		<tr><td align="left">Arabic</td><td align="right">281</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/ara.m3u</code></td></tr>
 		<tr><td align="left">Armenian</td><td align="right">8</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/hye.m3u</code></td></tr>
 		<tr><td align="left">Azerbaijani</td><td align="right">12</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/aze.m3u</code></td></tr>
-		<tr><td align="left">Bengali</td><td align="right">5</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/ben.m3u</code></td></tr>
+		<tr><td align="left">Bengali</td><td align="right">5</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/bd.m3u</code></td></tr>
 		<tr><td align="left">Bosnian</td><td align="right">3</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/bos.m3u</code></td></tr>
 		<tr><td align="left">Bulgarian</td><td align="right">17</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/bul.m3u</code></td></tr>
 		<tr><td align="left">Burmese</td><td align="right">16</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/mya.m3u</code></td></tr>
@@ -138,7 +138,7 @@
 		<tr><td align="left">🇦🇹&nbsp;Austria</td><td align="right">16</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/at.m3u</code></td><td align="left"><code>http://epg.streamstv.me/epg/guide-austria.xml.gz</code></td></tr>
 		<tr><td align="left">🇦🇿&nbsp;Azerbaijan</td><td align="right">11</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/az.m3u</code></td><td align="left"><code>https://iptvx.one/epg/epg.xml.gz</code></td></tr>
 		<tr><td align="left">🇧🇭&nbsp;Bahrain</td><td align="right">8</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/bh.m3u</code></td><td align="left"></td></tr>
-		<tr><td align="left">🇧🇩&nbsp;Bangladesh</td><td align="right">5</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/bd.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">🇧🇩&nbsp;Bangladesh</td><td align="right">5</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/bd.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">🇧🇧&nbsp;Barbados</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/bb.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">🇧🇾&nbsp;Belarus</td><td align="right">11</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/by.m3u</code></td><td align="left"><code>https://iptvx.one/epg/epg.xml.gz</code></td></tr>
 		<tr><td align="left">🇧🇪&nbsp;Belgium</td><td align="right">24</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/be.m3u</code></td><td align="left"></td></tr>
