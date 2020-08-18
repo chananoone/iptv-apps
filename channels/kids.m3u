@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",CARTOON NETWORK
+http://iptv.kitv.live:1935/live/Shari/MTV-P/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",DISNEY XD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",BBC CARIBES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",CARTOON NETWORK
+http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",DISNEY XD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",BBC CARIBES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/67.m3u8
