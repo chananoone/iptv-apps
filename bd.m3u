@@ -9,3 +9,9 @@ http://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 http://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",NTV (US Pacific Time)
 http://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:-1 ,Colors HD
+http://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 ,BollyWood Hd
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 ,Gazi Tv
+http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
