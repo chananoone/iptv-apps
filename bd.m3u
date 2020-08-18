@@ -15,3 +15,35 @@ http://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1 ,Gazi Tv
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:0, group-title="Bangla",Sony Aath
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony BBC Earth
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony BBC Earth HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:0, group-title="English",Sony ESPN
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:0, group-title="English",Sony ESPN HD
+http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0, group-title="English",Sony Le Plex HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Max
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Max 2
+http://cshms1.airtel.tv/wh7f454c46tw3181837615_1055582630/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Max HD
+http://cshms2.airtel.tv/wh7f454c46tw1426839479_1338613003/PLTV/88888888/224/3221225776/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Mix
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:0, group-title="English",Sony Movies
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="Hindi",Sony Pal
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/index.m3u8
+#EXTINF:0, group-title="English",Sony Pix
+http://cshms1.airtel.tv/wh7f454c46tw3107618267_1722636602/PLTV/88888888/224/3221226442/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Rox HD
+http://mhms5.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226204/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Sab
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Sab HD
+http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/index.m3u8
