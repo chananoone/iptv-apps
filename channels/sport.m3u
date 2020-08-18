@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,IN: SONY TEN 1
+http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
+#EXTINF:-1,IN: SONY TEN 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
+#EXTINF:-1,IN: STAR SPORTS 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/24.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
+#EXTINF:-1,IN: SONY TEN 1
+http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
+#EXTINF:-1,IN: MN+ HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/48.m3u8
+#EXTINF:-1,IN: MN+ HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/49.m3u8
+#EXTINF:-1,IN: SONY TEN 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/50.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
+#EXTINF:-1,IN: STAR SPORTS 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
+#EXTINF:-1,IN: D SPORTS
+http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
+#EXTINF:-1,IN: Euro Sports
+http://iptv.kitv.live:1935/live/Shari/MTV-P/85.m3u8
