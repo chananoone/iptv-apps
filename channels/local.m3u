@@ -46,3 +46,5 @@ http://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 http://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/jSGcX4yc/MTV-Beats-Logo.png" group-title="",MTV Beats
 http://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/jSGcX4yc/MTV-Beats-Logo.png" group-title="",Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
