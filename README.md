@@ -43,7 +43,7 @@
 		<tr><th align="left">Language</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Bengali</td><td align="right">5</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/bd.m3u</code></td></tr>
+		<tr><td align="left">Bengali</td><td align="right">5</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/bd.m3u</code></td></tr>
 		<tr><td align="left">Hindi</td><td align="right">92</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/hin.m3u</code></td></tr>
 		<tr><td align="left">Urdu</td><td align="right">35</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/urd.m3u</code></td></tr>
 		<tr><td align="left">English</td><td align="right">585</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/eng.m3u</code></td></tr></tbody>
