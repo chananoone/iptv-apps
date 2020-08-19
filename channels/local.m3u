@@ -1,9 +1,19 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",ZEE TV
-http://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_cinema_asia.jpg" group-title="",ZEE cinema
-http://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeeclassic/channel_square/zeebollywood386_1261156083.png" group-title="",ZEE BOLLYWOOD
-http://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/7DKPT1P.jpg" group-title="",Colors Bangla
+http://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Jalsha
+http://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Jalsha Movies
+http://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Colors Bangla
+http://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="",Star Jalsha
+http://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg" group-title="",Star Jalsha Movies
+http://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="",Zee Bangla
+http://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="",STAR PLUS HD
 http://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="",STAR PLUS SD
@@ -12,67 +22,55 @@ http://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 http://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title="",Colors HD
 http://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",ZEE TV
+http://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Colors
+http://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Gold
+http://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_cinema_asia.jpg" group-title="",ZEE cinema
+http://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeeclassic/channel_square/zeebollywood386_1261156083.png" group-title="",ZEE BOLLYWOOD
+http://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",BollyWood Hd
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/7DKPT1P.jpg" group-title="",Colors Bangla
-http://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Jalsha
-http://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Jalsha Movies
-http://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Bharat
 http://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Fasion TV
-https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
+http://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Serveur TV
-https://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
+http://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Bollywood Now
-https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+http://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Movie kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+http://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Gold
 http://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Bollywood HD
-https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
+http://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Gold
 http://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Shemaroo Bollywood Premier
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+http://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Zee Cinema
 http://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Zing
 http://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Colors Bangla
-http://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="",Star Jalsha
-http://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg" group-title="",Star Jalsha Movies
-http://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_world_asia.jpg" group-title="",Star World
 http://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="",Zee TV
 http://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Sangeet Bangla
 http://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="",Zee Bangla
-http://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Colors
-http://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Gold
-http://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Zing
 http://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Zee Cinema
 http://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Zee Classic
 http://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="",Star Plus
-http://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star_Plus_hd
-http://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Bharat HS
 http://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
