@@ -7,6 +7,7 @@
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
+		<tr><td align="left">Auto</td><td align="right">2</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/auto.m3u</code></td></tr>
 		<tr><td align="left">Indian/Kolkata</td><td align="right">235</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/local.m3u</code></td></tr>
 		<tr><td align="left">Sport</td><td align="right">113</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/sport.m3u</code></td></tr>
 		<tr><td align="left">Business</td><td align="right">33</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/business.m3u</code></td></tr>
