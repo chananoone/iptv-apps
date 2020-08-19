@@ -50,3 +50,60 @@ http://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 http://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/jSGcX4yc/MTV-Beats-Logo.png" group-title="",Romedy Now
 http://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/jSGcX4yc/MTV-Beats-Logo.png" group-title="",AXN
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+
+
+#EXTINF:-1,Disney Channel
+http://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=gratisan
+
+#EXTINF:-1,Cartoon Network
+http://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=gratisan
+
+#EXTINF:-1,Zoomoo TV
+http://delivery.macan.live/stream/zoomoo/index.m3u8?token=gratisan
+
+#EXTINF:-1,HGTV
+http://delivery.macan.live/stream/hgtv/index.m3u8?token=gratisan
+
+#EXTINF:-1,Cinemax
+http://delivery.macan.live/stream/cinemax/index.m3u8?token=gratisan
+
+#EXTINF:-1,Asian Food Network
+http://delivery.macan.live/stream/id_afc/index.m3u8?token=gratisan
+
+#EXTINF:-1,Fox
+http://delivery.macan.live/stream/id_fox/index.m3u8?token=gratisan
+
+#EXTINF:-1,HBO
+http://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
+
+#EXTINF:-1,FX
+http://delivery.macan.live/stream/id_fx/index.m3u8?token=gratisan
+
+#EXTINF:-1,Channel V
+http://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
+
+#EXTINF:-1,Warner Bros TV
+http://delivery.macan.live/stream/warnertv/index.m3u8?token=gratisan
+
+#EXTINF:-1,Lifetime
+http://delivery.macan.live/stream/lifetime/index.m3u8?token=gratisan
+
+#EXTINF:-1,AXN
+http://delivery.macan.live/stream/id_axn/index.m3u8?token=gratisan
+
+#EXTINF:-1,Fox Life
+http://delivery.macan.live/stream/id_foxlife/index.m3u8?token=gratisan
+
+#EXTINF:-1,BBC World
+http://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=gratisan
+
+#EXTINF:-1,TransTV
+http://delivery.macan.live/stream/id_transtv/index.m3u8?token=gratisan
+
+#EXTINF:-1,Animax
+http://delivery.macan.live/stream/id_animax/index.m3u8?token=gratisan
+
+#EXTINF:-1,Disney Junior India
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.com
