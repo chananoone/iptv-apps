@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",Nick Sonic Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/YSFGwJhc/Nickelodeon-Sonic-logo.png" group-title="",Nick Sonic Bangla
 http://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",Nick JR.
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/L6hsprby/640px-Nick-Jr.png" group-title="",Nick JR.
 http://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",Nick
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/fy1QZgVF/Nick-logo-2005.png" group-title="",Nick
 http://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",Cheebies Asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/tRsT0KfB/about-logo-cbeebies.png" group-title="",Cheebies Asia
 http://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/ZKrJ44Lx/download.png" group-title="",CARTOON NETWORK
 http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",DISNEY XD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RZsQF5SN/disney-xd.png" group-title="",DISNEY XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",BBC CARIBES
-http://iptv.kitv.live:1935/live/Shari/MTV-P/67.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",Hungama TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/fL06Cf2f/Hungama-TV.png" group-title="",Hungama TV
 http://stream-e30453a4b.nmbs.top/m3u/Kids/1f3e9e6679.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://partridgelab.github.io/iptv-apps/channels/logo/disney_xd.png" group-title="",Hungama TV
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
