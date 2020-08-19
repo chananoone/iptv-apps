@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1,IN: SONY TEN 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",SONY TEN 1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
-#EXTINF:-1,IN: Euro Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Euro Sports
 http://iptv.kitv.live:1935/live/Shari/MTV-P/48.m3u8
-#EXTINF:-1,IN: SONY TEN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",SONY TEN 2 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/50.m3u8
-#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",STAR SPORTS SELECT 1 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
-#EXTINF:-1,IN: STAR SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",STAR SPORTS 1 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
-#EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",STAR SPORTS SELECT 2 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
-#EXTINF:-1,IN: D SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",D SPORTS
 http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
-#EXTINF:-1,IN: SkyNet Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",SkyNet Sports 2
 http://iptv.kitv.live:1935/live/Shari/MTV-P/85.m3u8
