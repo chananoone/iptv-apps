@@ -18,6 +18,8 @@ http://175.41.46.16:8081/hls/1.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/NjjvC7mq/download.jpg" group-title="",SkyNet Sports 2
 http://iptv.kitv.live:1935/live/Shari/MTV-P/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/gj1M3T1d/download.png" group-title="",SkyNet Sports 1
+http://45.249.187.238:8081/hls/new1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/9Fxn03RK/download.jpg" group-title="",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RV0gjPsR/download.jpg" group-title="",Edge Sports
