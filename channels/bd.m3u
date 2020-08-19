@@ -1,28 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://gazitv.com/wp-content/uploads/2016/08/Logo.png" group-title="",Gazi tv
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="",D sports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia.jpghttps://i.imgur.com/wPNiJBT.jpg" group-title="",NatGeo Wild
-http://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nat-geo-people-hd-logo-300x300.jpg" group-title="",NetGeo People
-http://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",ZEE TV
-http://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_cinema_asia.jpg" group-title="",ZEE cinema
-http://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeeclassic/channel_square/zeebollywood386_1261156083.png" group-title="",ZEE BOLLYWOOD
-http://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="",STAR PLUS HD
-http://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="",STAR PLUS SD
-http://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",STAR GOLD
-http://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title="",Colors HD
-http://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",BollyWood Hd
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/maasranga_tv.jpg" group-title="",Maasranga
 http://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="",Asian TV
@@ -61,84 +40,23 @@ http://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 http://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",SA TV
 http://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/7DKPT1P.jpg" group-title="",Colors Bangla
-http://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Jalsha
-http://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Jalsha Movies
-http://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Bharat
-http://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Fasion TV
-https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Serveur TV
-https://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Popular Scince
-https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",History
-http://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_nl.jpg" group-title="",FOX Life
-http://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",National Geo Wild
-http://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",National Geo People
-http://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Dsports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Geo Super sports
-https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="",Sony Ten 1 HD
-https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",DSport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Dubai Racing
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Bollywood Now
-https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Bollywood Classic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Movie kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Gold
-http://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Bollywood HD
-https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Gold
-http://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Shemaroo Bollywood Premier
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Zee Cinema
-http://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",B4U Music
-http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Zing
-http://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ekushey_tv.jp" group-title="",Ekushey TV
 http://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="",Jamuna TV
 http://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="",Somoy News
 http://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Colors Bangla
-http://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="",Star Jalsha
-http://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg" group-title="",Star Jalsha Movies
-http://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",BBC World News
 http://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",CNN
@@ -147,44 +65,15 @@ http://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 http://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/deutsche_welle_tv.jpg" group-title="",DW
 http://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_world_asia.jpg" group-title="",Star World
-http://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="",Zee TV
-http://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",FOX Life
-http://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",NAT GEO WILD
-http://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Gaan_Bangla.png" group-title="",Gaan Bangla
 http://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Sangeet Bangla
-http://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.pinimg.com/originals/94/c7/f6/94c7f6559f4ce5b8559e8678a2048b74.png" group-title="",Zoom
 http://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="",Zee Bangla
-http://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Colors
-http://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Nat Geo People
-http://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Gold
-http://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Zing
-http://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Zee Cinema
-http://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Zee Classic
-http://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="",Star Plus
-http://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star_Plus_hd
-http://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Star Bharat HS
-http://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_europe.jpg" group-title="",History_hindi
-http://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us_hd.jpg" group-title="",TLC HD
-http://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_world_asia.jpg" group-title="",STAR WORLD (IN):-
 http://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv.jpg" group-title="",MTV Beats
