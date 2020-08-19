@@ -1,4 +1,25 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="",D sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Dsports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Geo Super sports
+https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="",Sony Ten 1 HD
+https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",DSport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Dubai Racing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",SONY TEN 1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="",Euro Sports
