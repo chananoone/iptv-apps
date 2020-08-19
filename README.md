@@ -56,7 +56,7 @@
 		<tr><th align="left">Country</th><th align="right">Channels</th><th align="left">Playlist</th><th align="left">EPG</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">🇧🇩&nbsp;Bangladesh</td><td align="right">5</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/bd.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">🇧🇩&nbsp;Bangladesh</td><td align="right">5</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/channels/bd.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">🇮🇳&nbsp;India</td><td align="right">185</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/channels/in.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">🇵🇰&nbsp;Pakistan</td><td align="right">43</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/channels/pk.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">🌎&nbsp;International</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/channels/int.m3u</code></td><td align="left"></td></tr>
