@@ -46,17 +46,17 @@ http://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RFVj5zZG/download.png" group-title="",Gaan Bangla
 http://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RFVj5zZG/download.png" group-title="",MOHONA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/k5h1cLPz/download.jpg" group-title="",MOHONA TV
 http://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RFVj5zZG/download.png" group-title="",MY TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CxxsQJ7g/download.png" group-title="",MY TV
 http://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RFVj5zZG/download.png" group-title="",Nagorik TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CKfPcmMK/download.png" group-title="",Nagorik TV
 http://103.205.133.14/hls/nagorik.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RFVj5zZG/download.png" group-title="",News 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/G2zbpcWV/download.jpg" group-title="",News 24
 http://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RFVj5zZG/download.png" group-title="",Sangsad TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/Y91hzGvP/download.jpg" group-title="",Sangsad TV
 http://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RFVj5zZG/download.png" group-title="",Ruposhi Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/zvHbHtnn/download.jpg" group-title="",Ruposhi Bangla
 https://itpolly.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RFVj5zZG/download.png" group-title="",Tara Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/9XDJBcbB/download.jpg" group-title="",Tara Bangla
 http://itpolly.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
