@@ -7,7 +7,6 @@
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Auto</td><td align="right">2</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/auto.m3u</code></td></tr>
 		<tr><td align="left">Indian/Kolkata</td><td align="right">235</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/local.m3u</code></td></tr>
 		<tr><td align="left">Sport</td><td align="right">113</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/sport.m3u</code></td></tr>
 		<tr><td align="left">Business</td><td align="right">33</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/business.m3u</code></td></tr>
@@ -25,7 +24,6 @@
 		<tr><td align="left">Kids</td><td align="right">85</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/kids.m3u</code></td></tr>
 		<tr><td align="left">Legislative</td><td align="right">25</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/legislative.m3u</code></td></tr>
 		<tr><td align="left">Lifestyle</td><td align="right">4</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/lifestyle.m3u</code></td></tr>
-		
 		<tr><td align="left">Movies</td><td align="right">59</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/movies.m3u</code></td></tr>
 		<tr><td align="left">Music</td><td align="right">163</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/music.m3u</code></td></tr>
 		<tr><td align="left">News</td><td align="right">235</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/news.m3u</code></td></tr>
