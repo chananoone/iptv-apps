@@ -14,12 +14,14 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/fL06Cf2f/Hungama-TV.png" group-title="",Hungama TV
 http://stream-e30453a4b.nmbs.top/m3u/Kids/1f3e9e6679.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/94NoKFn.jpg" group-title="JADOO LIVE",SONIC
-https://edge01.iptv.digijadoo.net/live/sonic/playlist.m3u8
+http://edge01.iptv.digijadoo.net/live/sonic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="JADOO LIVE",NICK Bangla
-https://edge01.iptv.digijadoo.net/live/nickelodeon/playlist.m3u8
+http://edge01.iptv.digijadoo.net/live/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rAjHYu3.png" group-title="JADOO LIVE",Nick Junior
-https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+http://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:0,Nick HD+
-https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
+http://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE",BBC Cbeebies
-https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+http://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE",Discovery Kids
+http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
