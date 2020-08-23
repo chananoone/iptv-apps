@@ -50,6 +50,22 @@ http://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 http://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CxxsQJ7g/download.png" group-title="",MY TV
 http://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Avbb36g.jpg?1" group-title="JADOO LIVE",Provashi Bangla IPTV [BD]
+https://edge01.iptv.digijadoo.net/live/probashibangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="JADOO LIVE",Ruposhi Bangla [IN]
+https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="JADOO LIVE",R Plus Gold [IN]
+https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="JADOO LIVE",CHANNEL 24 [BD]
+https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="JADOO LIVE",EKATTOR TV [BD]
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="JADOO LIVE",NAGORIK TV [BD]
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CKfPcmMK/download.png" group-title="",Nagorik TV
 http://103.205.133.14/hls/nagorik.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/G2zbpcWV/download.jpg" group-title="",News 24
