@@ -5,25 +5,39 @@ http://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
 http://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/fy1QZgVF/Nick-logo-2005.png" group-title="",Nick
 http://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/tRsT0KfB/about-logo-cbeebies.png" group-title="",Cheebies Asia
-http://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/ZKrJ44Lx/download.png" group-title="",CARTOON NETWORK
 http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RZsQF5SN/disney-xd.png" group-title="",DISNEY XD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/fL06Cf2f/Hungama-TV.png" group-title="",Hungama TV
-http://stream-e30453a4b.nmbs.top/m3u/Kids/1f3e9e6679.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94NoKFn.jpg" group-title="JADOO LIVE",SONIC
-http://edge01.iptv.digijadoo.net/live/sonic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="JADOO LIVE",NICK Bangla
 http://edge01.iptv.digijadoo.net/live/nickelodeon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rAjHYu3.png" group-title="JADOO LIVE",Nick Junior
-http://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="JADOO LIVE",NICK HD+
-http://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE",BBC Cbeebies
 http://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE",Discovery Kids
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RZsQF5SN/disney-xd.png" group-title="",DISNEY XD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/fL06Cf2f/Hungama-TV.png" group-title="",Hungama TV
+http://stream-e30453a4b.nmbs.top/m3u/Kids/1f3e9e6679.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NM0QWA0.png" tvg-country="CY" tvg-url="" group-title="Cyprus",Sat 7 Kids
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/akaramkids1.png" tvg-country="IN" tvg-url="" group-title="India",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif" tvg-country="KW" tvg-url="" group-title="Kuwait",KTV Kids
+http://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tfc2BYM.png" tvg-country="PT" tvg-url="" group-title="Portugal",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" tvg-country="SA" tvg-url="" group-title="Saudi Arabia",Rotana Kids
+http://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-id="Majid Kids TV ARB" tvg-name="Majid Kids TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RiJULAe.png" tvg-country="AE" tvg-url="" group-title="United Arab Emirates",Majid TV
+http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv
+#EXTINF:-1 group-title="WORLD IPTV" tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="United States",3ABN KIDS TV
+http://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="KIDS",SPACETOON KIDS
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lhGwCpE.jpg" group-title="KIDS",Shemaroo Kids
+http://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="KIDS",ANIMAX
+http://45.126.83.51/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RQcaLDO.jpg" group-title="KIDS",AniPlus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
