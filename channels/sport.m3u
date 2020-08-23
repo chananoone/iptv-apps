@@ -18,6 +18,8 @@ http://103.205.133.19/hls/sonysix.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/q7p4rV9Y/download.jpg" group-title="",STAR SPORTS 1 HD
 http://175.41.46.16:8081/hls/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/q7p4rV9Y/download.jpg" group-title="",STAR SPORTS 1
+http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/15gz7SQr/download.jpg" group-title="",STAR SPORTS SELECT 2 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/NjjvC7mq/download.jpg" group-title="",SkyNet Sports 2
@@ -35,7 +37,7 @@ http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/rwXtSsrr/download.png" group-title="",Pro X
 http://vid.hls.protv.ro/proxhdn/proxhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/g0BhLDqY/download.png" group-title="",PTV Sports
-http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+http://pioneer.anytv.live:8080/ptvsp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/t4vJBg1k/download.png" group-title="",Euro Sports
 http://iptv.kitv.live:1935/live/Shari/MTV-P/48.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/XNChs1Py/download.png" group-title="",D SPORTS
@@ -44,3 +46,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/j2f3FCd7/download.png" group-title="",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/j2f3FCd7/download.png" group-title="",Fox Sports
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
