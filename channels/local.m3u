@@ -10,6 +10,15 @@ http://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 http://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/52rggYHx/download.png" group-title=",Sony Aath
 http://103.205.133.14/hls/sony8.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="CCN",Sony TV
+http://ccn.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="CCN",Sony Max
+http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="CCN",&Tv
+http://103.205.133.19/hls/andpicture.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="CCN",&Picture HD
+http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/pVDxvs0N/Star-Plus-logo.jpg" group-title="",STAR PLUS HD
 http://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/pVDxvs0N/Star-Plus-logo.jpg" group-title="",STAR PLUS SD
@@ -46,11 +55,6 @@ http://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 http://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/jSGcX4yc/MTV-Beats-Logo.png" group-title="",MTV Beats
 http://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/K8qgkfx0/download.png" group-title="",AXN
