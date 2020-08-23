@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/7DKPT1P.jpg" group-title="",Colors Bangla
-http://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+http://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/522sPtH7/Star-Jalsha-logo.jpg" group-title="",Star Jalsha
 http://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CxnqLy9M/Jalsha-movies.png" group-title="",Star Jalsha Movies
