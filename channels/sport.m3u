@@ -2,8 +2,10 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/XNChs1Py/download.png" group-title="",D sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/XNChs1Py/download.png" group-title="",Ten Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/XNChs1Py/download.png" group-title="",Ads sport cricket
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/XNChs1Py/download.png" group-title="",Ten Sports
+http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="",Sony Ten 1 HD
 http://175.41.46.16:8081/hls/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/02ZCnp9w/download.png" group-title="",SONY TEN 2 HD
