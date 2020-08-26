@@ -1,272 +1,108 @@
 #EXTM3U
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10000
-http://103.141.66.36/bpk-tv/10000/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10001
-http://103.141.66.36/bpk-tv/10001/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10002
-http://103.141.66.36/bpk-tv/10002/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10003
-http://103.141.66.36/bpk-tv/10003/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10004
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Jani Na
 http://103.141.66.36/bpk-tv/10004/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10005
-http://103.141.66.36/bpk-tv/10005/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10006
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,ETV
 http://103.141.66.36/bpk-tv/10006/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10007
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,ZEE ETC
 http://103.141.66.36/bpk-tv/10007/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10008
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Channel 24
 http://103.141.66.36/bpk-tv/10008/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10009
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,ATN Bangla
 http://103.141.66.36/bpk-tv/10009/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10010
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,ATn News
 http://103.141.66.36/bpk-tv/10010/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10011
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Mohona Tv
 http://103.141.66.36/bpk-tv/10011/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10012
-http://103.141.66.36/bpk-tv/10012/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10013
-http://103.141.66.36/bpk-tv/10013/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10014
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Food Food
 http://103.141.66.36/bpk-tv/10014/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10015
-http://103.141.66.36/bpk-tv/10015/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10016
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Boishakhi Tv
 http://103.141.66.36/bpk-tv/10016/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10017
-http://103.141.66.36/bpk-tv/10017/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10018
-http://103.141.66.36/bpk-tv/10018/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10019
-http://103.141.66.36/bpk-tv/10019/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10020
-http://103.141.66.36/bpk-tv/10020/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10021
-http://103.141.66.36/bpk-tv/10021/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10022
-http://103.141.66.36/bpk-tv/10022/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10023
-http://103.141.66.36/bpk-tv/10023/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10024
-http://103.141.66.36/bpk-tv/10024/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10025
-http://103.141.66.36/bpk-tv/10025/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10026
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Channel I Hd
 http://103.141.66.36/bpk-tv/10026/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10027
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Bangla Vision
 http://103.141.66.36/bpk-tv/10027/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10028
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,&tv
 http://103.141.66.36/bpk-tv/10028/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10029
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Ntv
 http://103.141.66.36/bpk-tv/10029/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10030
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Somoy Tv
 http://103.141.66.36/bpk-tv/10030/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10031
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Btv
 http://103.141.66.36/bpk-tv/10031/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10032
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Bangla Tv
 http://103.141.66.36/bpk-tv/10032/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10033
-http://103.141.66.36/bpk-tv/10033/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10034
-http://103.141.66.36/bpk-tv/10034/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10035
-http://103.141.66.36/bpk-tv/10035/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10036
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Shangsad TV
 http://103.141.66.36/bpk-tv/10036/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10037
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Jamuna Tv
 http://103.141.66.36/bpk-tv/10037/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10038
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Desh Tv
 http://103.141.66.36/bpk-tv/10038/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10039
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Dubai CVD
 http://103.141.66.36/bpk-tv/10039/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10040
-http://103.141.66.36/bpk-tv/10040/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10041
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,WE
 http://103.141.66.36/bpk-tv/10041/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10042
-http://103.141.66.36/bpk-tv/10042/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10043
-http://103.141.66.36/bpk-tv/10043/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10044
-http://103.141.66.36/bpk-tv/10044/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10045
-http://103.141.66.36/bpk-tv/10045/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10046
-http://103.141.66.36/bpk-tv/10046/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10047
-http://103.141.66.36/bpk-tv/10047/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10048
-http://103.141.66.36/bpk-tv/10048/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10049
-http://103.141.66.36/bpk-tv/10049/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10050
-http://103.141.66.36/bpk-tv/10050/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10051
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,AlJajera
 http://103.141.66.36/bpk-tv/10051/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10052
-http://103.141.66.36/bpk-tv/10052/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10053
-http://103.141.66.36/bpk-tv/10053/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10054
-http://103.141.66.36/bpk-tv/10054/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10055
-http://103.141.66.36/bpk-tv/10055/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10056
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Tv5Monde
 http://103.141.66.36/bpk-tv/10056/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10057
-http://103.141.66.36/bpk-tv/10057/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10058
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,RT
 http://103.141.66.36/bpk-tv/10058/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10059
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,DW
 http://103.141.66.36/bpk-tv/10059/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10060
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Japan
 http://103.141.66.36/bpk-tv/10060/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10061
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,NAT GEO
 http://103.141.66.36/bpk-tv/10061/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10062
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Zee Tv
 http://103.141.66.36/bpk-tv/10062/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10063
-http://103.141.66.36/bpk-tv/10063/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10064
-http://103.141.66.36/bpk-tv/10064/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10065
-http://103.141.66.36/bpk-tv/10065/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10066
-http://103.141.66.36/bpk-tv/10066/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10067
-http://103.141.66.36/bpk-tv/10067/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10068
-http://103.141.66.36/bpk-tv/10068/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10069
-http://103.141.66.36/bpk-tv/10069/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10070
-http://103.141.66.36/bpk-tv/10070/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10071
-http://103.141.66.36/bpk-tv/10071/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10072
-http://103.141.66.36/bpk-tv/10072/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10073
-http://103.141.66.36/bpk-tv/10073/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10074
-http://103.141.66.36/bpk-tv/10074/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10075
-http://103.141.66.36/bpk-tv/10075/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10076
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,ABZY Movies
 http://103.141.66.36/bpk-tv/10076/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10077
-http://103.141.66.36/bpk-tv/10077/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10078
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,R Plus
 http://103.141.66.36/bpk-tv/10078/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10079
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,A Plus
 http://103.141.66.36/bpk-tv/10079/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10080
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Channel 9
 http://103.141.66.36/bpk-tv/10080/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10081
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Bangla Talkies
 http://103.141.66.36/bpk-tv/10081/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10082
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Mk Six
 http://103.141.66.36/bpk-tv/10082/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10083
-http://103.141.66.36/bpk-tv/10083/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10084
-http://103.141.66.36/bpk-tv/10084/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10085
-http://103.141.66.36/bpk-tv/10085/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10086
-http://103.141.66.36/bpk-tv/10086/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10087
-http://103.141.66.36/bpk-tv/10087/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10088
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,ARY QTV
 http://103.141.66.36/bpk-tv/10088/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10089
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,ARY Musik
 http://103.141.66.36/bpk-tv/10089/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10090
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,ARY Digital
 http://103.141.66.36/bpk-tv/10090/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10091
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,ARYjani na
 http://103.141.66.36/bpk-tv/10091/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10092
-http://103.141.66.36/bpk-tv/10092/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10093
-http://103.141.66.36/bpk-tv/10093/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10094
-http://103.141.66.36/bpk-tv/10094/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10095
-http://103.141.66.36/bpk-tv/10095/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10096
-http://103.141.66.36/bpk-tv/10096/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10097
-http://103.141.66.36/bpk-tv/10097/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10098
-http://103.141.66.36/bpk-tv/10098/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10099
-http://103.141.66.36/bpk-tv/10099/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10100
-http://103.141.66.36/bpk-tv/10100/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10101
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,PTV World
 http://103.141.66.36/bpk-tv/10101/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10102
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Zing
 http://103.141.66.36/bpk-tv/10102/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10103
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Monoranjan Grand
 http://103.141.66.36/bpk-tv/10103/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10104
 http://103.141.66.36/bpk-tv/10104/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10105
-http://103.141.66.36/bpk-tv/10105/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10106
 http://103.141.66.36/bpk-tv/10106/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10107
-http://103.141.66.36/bpk-tv/10107/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10108
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Zee Salam
 http://103.141.66.36/bpk-tv/10108/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10109
-http://103.141.66.36/bpk-tv/10109/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10110
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,MTV India
 http://103.141.66.36/bpk-tv/10110/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10111
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Ruposhi Bangla
 http://103.141.66.36/bpk-tv/10111/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10112
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Akash 8
 http://103.141.66.36/bpk-tv/10112/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10113
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Dhoom
 http://103.141.66.36/bpk-tv/10113/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10114
-http://103.141.66.36/bpk-tv/10114/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10115
-http://103.141.66.36/bpk-tv/10115/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10116
-http://103.141.66.36/bpk-tv/10116/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10117
-http://103.141.66.36/bpk-tv/10117/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10118
-http://103.141.66.36/bpk-tv/10118/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10119
-http://103.141.66.36/bpk-tv/10119/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10120
-http://103.141.66.36/bpk-tv/10120/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10121
-http://103.141.66.36/bpk-tv/10121/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10122
-http://103.141.66.36/bpk-tv/10122/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10123
-http://103.141.66.36/bpk-tv/10123/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10124
-http://103.141.66.36/bpk-tv/10124/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10125
-http://103.141.66.36/bpk-tv/10125/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10126
-http://103.141.66.36/bpk-tv/10126/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10127
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Monoranjan Movies
 http://103.141.66.36/bpk-tv/10127/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10128
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Beyond Scenery
 http://103.141.66.36/bpk-tv/10128/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10129
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,S Bangla
 http://103.141.66.36/bpk-tv/10129/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10130
-http://103.141.66.36/bpk-tv/10130/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10131
+#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,CGTN
 http://103.141.66.36/bpk-tv/10131/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10132
-http://103.141.66.36/bpk-tv/10132/default/index.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10133
-http://103.141.66.36/bpk-tv/10133/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Public Mujic
 http://103.141.66.36/bpk-tv/10134/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,YTN
@@ -279,39 +115,32 @@ http://103.141.66.36/bpk-tv/10137/default/index.m3u8
 http://103.141.66.36/bpk-tv/10138/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Khusboo Bangla
 http://103.141.66.36/bpk-tv/10139/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,9X Jhakaas
 http://103.141.66.36/bpk-tv/10141/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Vh
 http://103.141.66.36/bpk-tv/10151/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,NICK Bangla
 http://103.141.66.36/bpk-tv/10152/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Masranga
 http://103.141.66.36/bpk-tv/10154/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Moon
 http://103.141.66.36/bpk-tv/10164/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,MK Tunes
 http://103.141.66.36/bpk-tv/10165/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,IMAYAM
 http://103.141.66.36/bpk-tv/10166/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Care World
 http://103.141.66.36/bpk-tv/10176/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Arabic Channel
 http://103.141.66.36/bpk-tv/10177/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,MBeats
 http://103.141.66.36/bpk-tv/10178/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Zee Cinema
 http://103.141.66.36/bpk-tv/10180/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,R Plus Gold
 http://103.141.66.36/bpk-tv/10181/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,&Tv
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Republic News
 http://103.141.66.36/bpk-tv/10184/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Zee Bangla
@@ -320,35 +149,28 @@ http://103.141.66.36/bpk-tv/10185/default/index.m3u8
 http://103.141.66.36/bpk-tv/10186/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Enterr10 Bangla
 http://103.141.66.36/bpk-tv/10187/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Color HD
 http://103.141.66.36/bpk-tv/10189/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,&Pictures
 http://103.141.66.36/bpk-tv/10190/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,ABZY Dhakad
 http://103.141.66.36/bpk-tv/10191/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Makka Live
 http://103.141.66.36/bpk-tv/10201/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Makka Live
 http://103.141.66.36/bpk-tv/10204/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Rai Italia
 http://103.141.66.36/bpk-tv/10209/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Masti Music
 http://103.141.66.36/bpk-tv/10210/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Euro News
 http://103.141.66.36/bpk-tv/10211/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Duronto Tv
 http://103.141.66.36/bpk-tv/10226/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Zee Cafe
 http://103.141.66.36/bpk-tv/10229/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,jani na
 http://103.141.66.36/bpk-tv/10230/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,24 France
 http://103.141.66.36/bpk-tv/10232/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,RTP
@@ -357,24 +179,20 @@ http://103.141.66.36/bpk-tv/10233/default/index.m3u8
 http://103.141.66.36/bpk-tv/10234/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Express
 http://103.141.66.36/bpk-tv/10235/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Hum pk
 http://103.141.66.36/bpk-tv/10240/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Hum Pakistani
 http://103.141.66.36/bpk-tv/10241/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,APB News
 http://103.141.66.36/bpk-tv/10252/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,PTV Home
 http://103.141.66.36/bpk-tv/10253/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,DBC News
 http://103.141.66.36/bpk-tv/10256/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,RTV
 http://103.141.66.36/bpk-tv/10257/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Anando TV
 http://103.141.66.36/bpk-tv/10258/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Sun 
 http://103.141.66.36/bpk-tv/10261/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Geo News
@@ -387,20 +205,16 @@ http://103.141.66.36/bpk-tv/10264/default/index.m3u8
 http://103.141.66.36/bpk-tv/10265/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,9X Music
 http://103.141.66.36/bpk-tv/10266/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Big Magic
 http://103.141.66.36/bpk-tv/10280/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,B4U Music
 http://103.141.66.36/bpk-tv/10282/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,9X Jalwa
 http://103.141.66.36/bpk-tv/10283/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Zee News
 http://103.141.66.36/bpk-tv/10285/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10286
 http://103.141.66.36/bpk-tv/10286/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Sab Group Channel
 http://103.141.66.36/bpk-tv/10301/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,10302
@@ -411,17 +225,14 @@ http://103.141.66.36/bpk-tv/10303/default/index.m3u8
 http://103.141.66.36/bpk-tv/10304/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,NDTV India
 http://103.141.66.36/bpk-tv/10305/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,AJ Tak
 http://103.141.66.36/bpk-tv/10311/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,B4U Kanak
 http://103.141.66.36/bpk-tv/10312/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Shemaroo
 http://103.141.66.36/bpk-tv/10313/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Music India
 http://103.141.66.36/bpk-tv/10315/default/index.m3u8
-
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,GTv
 http://103.141.66.36/bpk-tv/10328/default/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,BTV World
