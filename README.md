@@ -16,6 +16,7 @@
 		<tr><td align="left">Movies</td><td align="right">59</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/movies.m3u</code></td></tr>
 		<tr><td align="left">News</td><td align="right">235</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/news.m3u</code></td></tr>
 		<tr><td align="left">Religious</td><td align="right">184</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/religious.m3u</code></td></tr>
+		<tr><td align="left">SD Channels</td><td align="right">184</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/pk.m3u</code></td></tr>
 	</tbody>
 </table>
 
