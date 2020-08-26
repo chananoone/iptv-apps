@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/7DKPT1P.jpg" group-title="",Colors Bangla
 http://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/522sPtH7/Star-Jalsha-logo.jpg" group-title="",Star Jalsha
-http://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+http://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CxnqLy9M/Jalsha-movies.png" group-title="",Star Jalsha Movies
 http://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/R0RVvXCV/zee-bangla-cinema-logo-zee-cinema-bengali-language-png-favpng-EGC6a-FQLMr-Sk-Pamz03c-LVYU4-L.jpg" group-title="",Zee Bangla
 http://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/52rggYHx/download.png" group-title=",Sony Aath
-http://103.205.133.14/hls/sony8.m3u8
+http://103.205.133.19/hls/sony8.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="CCN",Sony TV
 http://ccn.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
