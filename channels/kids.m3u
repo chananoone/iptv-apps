@@ -9,6 +9,8 @@ http://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="JADOO LIVE",NICK Bangla
 http://edge01.iptv.digijadoo.net/live/nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE",Disney Junior
+http://ccn.anytv.live:8080/cartoonnet/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE",BBC Cbeebies
 http://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="KIDS",ANIMAX
