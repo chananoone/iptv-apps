@@ -15,8 +15,8 @@
 		<tr><td align="left">Movies</td><td align="right">59</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/movies.m3u</code></td></tr>
 		<tr><td align="left">News</td><td align="right">235</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/news.m3u</code></td></tr>
 		<tr><td align="left">Religious</td><td align="right">184</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/religious.m3u</code></td></tr>
-		<tr><td align="left">Server 01</td><td align="right">115</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/entertainment.m3u</code></td></tr>
-		<tr><td align="left">Server 02</td><td align="right">115</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/server2.m3u</code></td></tr>
+		<tr><td align="left">Server 01</td><td align="right">115</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/in.m3u</code></td></tr>
+		<tr><td align="left">Server 02</td><td align="right">115</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/entertainment.m3u</code></td></tr>
 		<tr><td align="left">SD Server</td><td align="right">184</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/pk.m3u</code></td></tr>
 	</tbody>
 </table>
