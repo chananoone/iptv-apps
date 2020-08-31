@@ -15,8 +15,8 @@ http://edge01.iptv.digijadoo.net/live/colors_infinity/playlist.m3u8
 http://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="JADOO LIVE",Star Gold HD
 http://edge01.iptv.digijadoo.net/live/star_gold/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="JADOO LIVE",Star Gold 2
-http://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="",Star Gold 2
+http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="JADOO LIVE",Zee Cinema
 http://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="JADOO LIVE",Zee Bollywood
