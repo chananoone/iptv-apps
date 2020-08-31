@@ -13,7 +13,7 @@ http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/jd8zPth6/download.png" group-title="",SONY TEN 3
 http://103.205.133.19/hls/ten3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY Six
-http://dflix.live:8082/23/index.m3u8?token=19933594a8be7596da8fc799306b0da519083f37-e8a53c2ee172f80dcb5d0112a0d6559a-1598229522-1598218722&remote=27.147.181.181
+http://tv.dflix.live:8082/24/index.m3u8?token=46c76df8e7b3b38f8ccfe8494e4c5e82a5cf7f68-7d71be34b57a4d233faddcb5441cc90a-1598914559-1598903759&remote=88.147.250.191
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY ESPN
 http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/vBQB06Y4/download.jpg" group-title="",STAR SPORTS SELECT 1 HD
