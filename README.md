@@ -46,5 +46,27 @@
 		<tr><td align="left">🇮🇳&nbsp;India</td><td align="right">185</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/channels/in.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">🇵🇰&nbsp;Pakistan</td><td align="right">43</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/channels/pk.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">🌎&nbsp;International</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/channels/int.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">German</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/01_German.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">German Regional</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/02_German_Regional.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Austria Switzerland</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/03_Austria_Switzerland.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Usa TV</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/04_Usa_TV.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Usa Local TV</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/05_Usa_Local_TV.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Usa TV Providers</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/06_Usa_TV_Providers.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Canada</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/07_Canada.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Australia Newseeland</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/09_Australia_Newseeland.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Uk Ireland</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/10_Uk_Ireland.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Benelux</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/11_Benelux.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Skandinavia</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/12_Skandinavia.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Italien</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/13-Italien.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Korea</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/14-Korea.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">China</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/15_China.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Persian</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/16_Persian.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Polisch</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/17_Polisch.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Baltic</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/18_Baltic.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Ukraine</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/19_Ukraine.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Romania</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/22_Romania.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Musik</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/80_Musik.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Spain</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/82_Spain.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">German</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/01_German.m3u</code></td><td align="left"></td></tr>
 		</tbody>
 </table>
