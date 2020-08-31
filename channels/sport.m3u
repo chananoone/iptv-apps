@@ -7,13 +7,13 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/XNChs1Py/download.png" group-title="",Ads sport cricket
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="",Sony Ten 1 HD
-http://103.205.133.19/hls/ten1.m3u8
+http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/02ZCnp9w/download.png" group-title="",SONY TEN 2 HD
 http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/jd8zPth6/download.png" group-title="",SONY TEN 3
 http://103.205.133.19/hls/ten3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY Six
-http://tv.dflix.live:8082/24/index.m3u8?token=46c76df8e7b3b38f8ccfe8494e4c5e82a5cf7f68-7d71be34b57a4d233faddcb5441cc90a-1598914559-1598903759&remote=88.147.250.191
+http://103.49.168.172:8081/ebox/six/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY ESPN
 http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/vBQB06Y4/download.jpg" group-title="",STAR SPORTS SELECT 1 HD
