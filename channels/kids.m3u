@@ -51,7 +51,7 @@ http://45.126.83.51/dr9445/h/h02/index.m3u8
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE",Discovery Kids
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-\
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NM0QWA0.png" tvg-country="CY" tvg-url="" group-title="Cyprus",Sat 7 Kids
@@ -72,4 +72,107 @@ http://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lhGwCpE.jpg" group-title="KIDS",Shemaroo Kids
 http://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/819H8JmzwgL._SX300_.jpg",XCORPS
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg",YOU MAN
+http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg",YOU MAN
+http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg",YOU MAN
+http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg",YOU MAN
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-kaku-cn.png",BTV KAKU
+http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-kaku-cn.png",BTV KAKU
+http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-kaku-cn.png",BTV KAKU
+http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiajia-cartoon-cn.png",JIAJIA CARTOON
+http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg",ANIWORLD
+http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg",ANIWORLD
+http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg",ANIWORLD
+http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg",ANIWORLD
+http://223.82.250.72/live/jinyingkaton/1.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg",ANIWORLD
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/jCYDqv4t/3-ABN-Kids.png",3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",DISNEY JUNIOR Indo SD
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",BOOMERANG
+http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",CARTOON CLUB
+http://edge4-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1 group-title="KIDS"  tvg-logo="https://www.img.in.th/images/ddbe0eb9601851a35081b41cf925091b.png",CARTOON NETWORK UK
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1 group-title="KIDS"  tvg-logo="https://www.img.in.th/images/3c65428c4cf95a8c2f2fcadb573d667f.png",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/4.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",NICK JR. BG
+http://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",NICKELODEON GER
+http://136.243.177.164/NICKELODEON/playlist.m3u8
+#EXTINF:-1 group-title="KIDS"  tvg-logo="https://yt3.ggpht.com/a/AGF-l7-lUNyzC0zQ6C_0HjUoqikJb0mduDz_-YKbrQ=s900-c-k-c0xffffffff-no-rj-mo",GEM Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",TRT COCUK
+http://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",KTV KIDS
+http://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/zlPbOI0.png",Home Movies
+http://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/ZUg5vhn.png",Robot Chicken
+http://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/zSs1e5z.png",Squidbillies
+http://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/K3nLFU9.png",Superjail!
+http://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.img.in.th/images/5483572a395b271f0396ea5139e68a87.png",RICK AND MORTY
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_6.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/kru210h.png",The Venture Bros.
+http://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/rYIysEl.png",Metalocalypse
+http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://image.free.in.th/v/2013/ij/180713075126.gif",GREENWAVE
+http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",Blacberry Cartoon
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",Blackberry movies
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",TCT Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",PBS Kids
+http://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",Battery Pop
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",Kabillion
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",tvo KIDS
+http://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",Nick
+http://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",Rooster Teeth TV
+http://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/wIAZh19.jpg",SAT 7 KIDS
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/0OYQYvR.png",ANIMAX
+http://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/Sw1rCgm.png",Disney XD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/CPdrEIm.png",CN HD+
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
 
