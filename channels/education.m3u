@@ -1,5 +1,13 @@
 
 #EXTM3U
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="Discoveries Animals", Discovery  Real  Time
+http://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="Discoveries Animals", Discovery   Giallo
+http://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="English Movies",Discovery Nove
+http://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="JADOO LIVE",NAT GEO WILD
 http://edge01.iptv.digijadoo.net/live/nat_geo_wild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5adlvsI.png" group-title="JADOO LIVE",NAT GEO PEOPLE
