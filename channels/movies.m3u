@@ -1,4 +1,13 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/MoviesNow.in.png" group-title="Movies",Movies Now
+http://timesnow.airtel.tv/live/MN_pull/master.m3u8 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/MNX2.in.png" group-title="Movies",MNX Movies
+http://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/RomedyNow.in.png" group-title="Movies",Romedy Now
+http://timesnow.airtel.tv/live/RN_pull/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="JADOO LIVE",STAR WORLD
 http://edge01.iptv.digijadoo.net/live/star_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="JADOO LIVE",Sony Pix
