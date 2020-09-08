@@ -24,6 +24,7 @@ Non of the streams/videos are hosted on this website. All content is copyright o
 		<tr><td align="left">SD Server</td><td align="right">184</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/pk.m3u</code></td></tr>
 		<tr><td align="left">Server 03</td><td align="right">184</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/server3.m3u</code></td></tr>
 		<tr><td align="left">Distro Tv</td><td align="right">184</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/distrotv.m3u</code></td></tr>
+		<tr><td align="left">Turkish Server</td><td align="right">184</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/turkish-server.m3u</code></td></tr>turkish-server.m3u
 	</tbody>
 </table>
 
