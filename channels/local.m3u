@@ -4,11 +4,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/7DKPT1P.jpg" group-title="",Colors Bangla
 http://robi.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/522sPtH7/Star-Jalsha-logo.jpg" group-title="",Star Jalsha
-http://robi.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CxnqLy9M/Jalsha-movies.png" group-title="",Star Jalsha Movies
-http://robi.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/R0RVvXCV/zee-bangla-cinema-logo-zee-cinema-bengali-language-png-favpng-EGC6a-FQLMr-Sk-Pamz03c-LVYU4-L.jpg" group-title="",Zee Bangla
-http://robi.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/52rggYHx/download.png" group-title=",Sony Aath
 http://ccn.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
 
@@ -16,12 +16,14 @@ http://ccn.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
 http://ccn.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="CCN",Sony Max
 http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="CCN",Sony Max Hd
+http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="CCN",&Tv
 http://45.249.187.238:8081/hls/tsl-6.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="CCN",&Picture HD
 http://45.249.187.238:8081/hls/tsl-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/pVDxvs0N/Star-Plus-logo.jpg" group-title="",STAR PLUS HD
-http://robi.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/pVDxvs0N/Star-Plus-logo.jpg" group-title="",STAR PLUS SD
 http://robi.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/zGHxmcjK/Star-Gold-2011.png" group-title="",STAR GOLD
