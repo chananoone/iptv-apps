@@ -11,7 +11,7 @@ Non of the streams/videos are hosted on this website. All content is copyright o
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Bangladeshi/Idian/Kolkata(active)</td><td align="right">115</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/entertainment.m3u</code></td></tr>
+		<tr><td align="left">Bangladeshi/Indian/Kolkata(active)</td><td align="right">115</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/entertainment.m3u</code></td></tr>
 		<tr><td align="left">Bangladeshi</td><td align="right">235</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/bd.m3u</code></td></tr>
 		<tr><td align="left">Indian/Kolkata</td><td align="right">235</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/local.m3u</code></td></tr>
 		<tr><td align="left">Sports</td><td align="right">113</td><td align="left"><code>https://partridgelab.github.io/iptv-apps/channels/sport.m3u</code></td></tr>
