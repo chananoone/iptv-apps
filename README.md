@@ -75,5 +75,6 @@ Non of the streams/videos are hosted on this website. All content is copyright o
 		<tr><td align="left">Musik</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/80_Musik.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Spain</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/82_Spain.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">German</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/countries/01_German.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Ukandia</td><td align="right">75</td><td align="left" nowrap><code>https://partridgelab.github.io/iptv-apps/newx.m3u</code></td><td align="left"></td></tr>
 		</tbody>
 </table>
