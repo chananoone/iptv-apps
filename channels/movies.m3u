@@ -6,8 +6,10 @@ http://timesnow.airtel.tv/live/MN_pull/master.m3u8
 http://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/RomedyNow.in.png" group-title="Movies",Romedy Now
 http://timesnow.airtel.tv/live/RN_pull/master.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="JADOO LIVE",STAR Movies
+http://45.249.187.238:8081/hls/tsl-4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="JADOO LIVE",Utv Action
+http://45.249.187.238:8081/hls/tsl-7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="JADOO LIVE",STAR WORLD
 http://edge01.iptv.digijadoo.net/live/star_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="JADOO LIVE",Sony Pix
