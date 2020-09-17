@@ -28,12 +28,16 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
 http://robi.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/zGHxmcjK/Star-Gold-2011.png" group-title="",STAR GOLD
 http://robi.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/zGHxmcjK/Star-Gold-2011.png" group-title="",STAR GOLD 2
+http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/WbBMZbGq/image.png" group-title="",Colors HD
 http://robi.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/Zqc3X816/Zee-TV-2018.png" group-title="",ZEE TV
 http://robi.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/63P7NYz4/8-80870-zee-cinema-channel-logo-hd-png-download.jpg" group-title="",ZEE cinema
 http://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/63P7NYz4/8-80870-zee-cinema-channel-logo-hd-png-download.jpg" group-title="",ZEE Action
+http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/qvgvp8h8/Zeeclassic-new.png" group-title="",ZEE Classic
 http://robi.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/63hXr34W/Bollywood-HD-logo2018-655.png" group-title="",BollyWood Hd
