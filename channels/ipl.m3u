@@ -13,6 +13,8 @@ http://45.249.187.238:8081/hls/live5.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_First.png?raw=true" group-title="sports",Willow 
 http://tv.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nOrLoWi.jpg" group-title="AMR BD LIVE",AMR_Willow Cricket HD
+http://ddn.amrbd.com:8081/live/willo-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY Ten 1
 http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY Ten 2
