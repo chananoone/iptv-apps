@@ -1,76 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/mkThGkFJ/download.png" group-title="",Jamuna TV
-http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/jjrb19fk/download.jpg" group-title="",Somoy News
-http://robi.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/PJSz8BW3/download.png" group-title="",ATN Bangla
-http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/154Dj7cS/download-1.png" group-title="",ATN News
-http://103.49.168.172:8081/ebox/bd_atn_news/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/PJSz8BW3/download.png" group-title="",ATN Music
-http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/mks6wfFT/GTVBangladesh-Logo.png" group-title="",Gazi tv
-http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/J0xK5yLQ/download.jpg" group-title="",Maasranga
-http://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="",Asian TV
-http://robi.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/cJWg0FYr/download.png" group-title="",Banglavision TV
-http://robi.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/Mp2Xm99d/1200px-Boishakhi.png" group-title="",Boishakhi TV
-http://robi.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/FzksjScM/download.jpg" group-title="",BTV World
-http://robi.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/k5MSWj5L/download.jpg" group-title="",Channel 9
-http://robi.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/qvwhB8Gw/download.png" group-title="",Channel 24
-http://robi.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/P55f40mb/download.png" group-title="",Channel I
-http://robi.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/kXfqBwk2/download.png" group-title="",DBC News
-http://robi.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/3rZHcnrt/download.jpg" group-title="",Deepto TV
-http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/j5sMwQVj/download.png" group-title="",Desh TV
-http://robi.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/B6QCQSDL/download.jpg" group-title="",Duronto TV
-http://robi.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/wTsQBbtV/download.jpg" group-title="",Ekushey TV
-http://robi.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/XJmxHMGr/download.png" group-title="",Independent TV
-http://robi.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/OS4nrN7.jpg" group-title="",NTV
-http://robi.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/g2ss9LLF/download.jpg" group-title="",RTV
-http://robi.iptv.digijadoo.net/live/rtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/tJdPh8hQ/download.png" group-title="",SA TV
-http://robi.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RFVj5zZG/download.png" group-title="",Gaan Bangla
-http://robi.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/k5h1cLPz/download.jpg" group-title="",MOHONA TV
-http://robi.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CxxsQJ7g/download.png" group-title="",MY TV
-http://robi.iptv.digijadoo.net/live/my_tv/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Avbb36g.jpg?1" group-title="JADOO LIVE",Provashi Bangla IPTV 
-http://robi.iptv.digijadoo.net/live/probashibangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="JADOO LIVE",CHANNEL 24 
-http://robi.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="JADOO LIVE",EKATTOR TV 
-http://robi.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="JADOO LIVE",NAGORIK TV 
-http://robi.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CKfPcmMK/download.png" group-title="",Nagorik TV
-http://103.205.133.14/hls/nagorik.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/G2zbpcWV/download.jpg" group-title="",News 24
-http://robi.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/Y91hzGvP/download.jpg" group-title="",Sangsad TV
-http://robi.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/9XDJBcbB/download.jpg" group-title="",Medina Bangla
@@ -196,3 +126,76 @@ http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 http://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/vsfavkpqyvi3x8m/mtvbangla.jpg" group-title="BANGLA ENT.",MTv Bangla
 http://mtvbangla-hls.telelivebd.com/mtvbangla/fa96cb6eb78910932cc0b6aee1771fbd.sdp/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/mkThGkFJ/download.png" group-title="",Jamuna TV
+http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/jjrb19fk/download.jpg" group-title="",Somoy News
+http://robi.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/PJSz8BW3/download.png" group-title="",ATN Bangla
+http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/154Dj7cS/download-1.png" group-title="",ATN News
+http://103.49.168.172:8081/ebox/bd_atn_news/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/PJSz8BW3/download.png" group-title="",ATN Music
+http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/mks6wfFT/GTVBangladesh-Logo.png" group-title="",Gazi tv
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/J0xK5yLQ/download.jpg" group-title="",Maasranga
+http://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="",Asian TV
+http://robi.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/cJWg0FYr/download.png" group-title="",Banglavision TV
+http://robi.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/Mp2Xm99d/1200px-Boishakhi.png" group-title="",Boishakhi TV
+http://robi.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/FzksjScM/download.jpg" group-title="",BTV World
+http://robi.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/k5MSWj5L/download.jpg" group-title="",Channel 9
+http://robi.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/qvwhB8Gw/download.png" group-title="",Channel 24
+http://robi.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/P55f40mb/download.png" group-title="",Channel I
+http://robi.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/kXfqBwk2/download.png" group-title="",DBC News
+http://robi.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/3rZHcnrt/download.jpg" group-title="",Deepto TV
+http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/j5sMwQVj/download.png" group-title="",Desh TV
+http://robi.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/B6QCQSDL/download.jpg" group-title="",Duronto TV
+http://robi.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/wTsQBbtV/download.jpg" group-title="",Ekushey TV
+http://robi.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/XJmxHMGr/download.png" group-title="",Independent TV
+http://robi.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/OS4nrN7.jpg" group-title="",NTV
+http://robi.iptv.digijadoo.net/live/ntv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/g2ss9LLF/download.jpg" group-title="",RTV
+http://robi.iptv.digijadoo.net/live/rtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/tJdPh8hQ/download.png" group-title="",SA TV
+http://robi.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RFVj5zZG/download.png" group-title="",Gaan Bangla
+http://robi.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/k5h1cLPz/download.jpg" group-title="",MOHONA TV
+http://robi.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CxxsQJ7g/download.png" group-title="",MY TV
+http://robi.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Avbb36g.jpg?1" group-title="JADOO LIVE",Provashi Bangla IPTV 
+http://robi.iptv.digijadoo.net/live/probashibangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="JADOO LIVE",CHANNEL 24 
+http://robi.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="JADOO LIVE",EKATTOR TV 
+http://robi.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="JADOO LIVE",NAGORIK TV 
+http://robi.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CKfPcmMK/download.png" group-title="",Nagorik TV
+http://103.205.133.14/hls/nagorik.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/G2zbpcWV/download.jpg" group-title="",News 24
+http://robi.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/Y91hzGvP/download.jpg" group-title="",Sangsad TV
+http://robi.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+
