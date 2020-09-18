@@ -15,6 +15,8 @@ http://watchindia.net:8443/live/53364/15983/2104.ts
 http://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="KIDS ENT.",Disney Hindi
 http://45.249.187.238:8081/hls/live0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/8KTN00Q/dc.png" group-title="",Disney English
+http://streams.livetv.az/turk/disney/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="KIDS ENT.",POGO
 http://starshare.live:8080/live/vip216/64587929/1918.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKrJ44Lx/download.png" group-title="KIDS ENT.",Cartoon Network Hindi
@@ -24,7 +26,7 @@ http://ccn.anytv.live:8080/cartoonnet/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RZsQF5SN/disney-xd.png" group-title="",DISNEY XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/fL06Cf2f/Hungama-TV.png" group-title="",Hungama TV
-http://stream-e30453a4b.nmbs.top/m3u/Kids/1f3e9e6679.m3u8
+https://stream-e30453a4b.nmbs.top/m3u/Kids/1f3e9e6679.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE",BBC Cbeebies
 http://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="KIDS ENT.",Disney XD
