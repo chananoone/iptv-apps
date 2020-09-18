@@ -2,17 +2,17 @@
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/mkThGkFJ/download.png" group-title="",Jamuna TV
-http://robi.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/jjrb19fk/download.jpg" group-title="",Somoy News
 http://robi.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/PJSz8BW3/download.png" group-title="",ATN Bangla
-http://robi.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/154Dj7cS/download-1.png" group-title="",ATN News
-http://robi.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_atn_news/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/PJSz8BW3/download.png" group-title="",ATN Music
 http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/mks6wfFT/GTVBangladesh-Logo.png" group-title="",Gazi tv
-http://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/J0xK5yLQ/download.jpg" group-title="",Maasranga
 http://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="",Asian TV
