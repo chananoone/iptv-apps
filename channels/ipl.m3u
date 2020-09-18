@@ -9,6 +9,8 @@ http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 http://45.249.187.238:8081/hls/live3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mks6wfFT/GTVBangladesh-Logo.png" group-title="MOVIE BAZAR TV",Gazi TV
 http://45.249.187.238:8081/hls/live5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Gazi Tv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/06.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CxnqLy9M/Jalsha-movies.png" group-title="",Star Jalsha Movies
 http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
 
