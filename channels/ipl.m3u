@@ -5,8 +5,7 @@ http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
 http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY Six
 http://103.49.168.172:8081/ebox/six/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5MSWj5L/download.jpg" group-title="MOVIE BAZAR TV",Channel 9
-http://45.249.187.238:8081/hls/live3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mks6wfFT/GTVBangladesh-Logo.png" group-title="MOVIE BAZAR TV",Gazi TV
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.postimg.cc/mks6wfFT/GTVBangladesh-Logo.png" group-title="",Gazi Tv
