@@ -12,6 +12,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/06.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/vBQB06Y4/download.jpg" group-title="",STAR SPORTS SELECT 1 HD
 http://103.84.253.5/live/fastfeed1002/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/15gz7SQr/download.jpg" group-title="",STAR SPORTS SELECT 2 HD
+http://103.84.253.5/live/fastfeed1002/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CxnqLy9M/Jalsha-movies.png" group-title="",Star Jalsha Movies
 http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
@@ -51,6 +53,5 @@ http://45.249.187.238:8081/hls/new19.m3u8
 http://175.41.46.16:8081/hls/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/q7p4rV9Y/download.jpg" group-title="",STAR SPORTS 1
 http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/15gz7SQr/download.jpg" group-title="",STAR SPORTS SELECT 2 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
+
 
