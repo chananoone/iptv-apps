@@ -33,5 +33,56 @@ http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/q7p4rV9Y/download.jpg" group-title="",STAR SPORTS 1 hindi
 http://185.232.53.4:2086/tbird/tbird/94788?checkedby:hlscat.com
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",STAR SPORTS 1 HINDI
+http://185.8.176.227:25461/strtester/ap8s9ndf709a8/68
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Star Sports 1 HD
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33354
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",RTA Sport (New!)
+http://212.47.252.54/hls/stream.m3u8?checkedby
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",STAR SPORTS 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Star Sports Select 1 HD
+http://45.249.187.238:8081/hls/new2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Star Sports Select 1 HD
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33356
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Geo Super TV
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/30892
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",PKSPORTS HD
+http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Willow Cricket HD
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/27736
+
+#EXTINF:-1 tvg-id="" tvg-name="|US|- Willow Cricket 4K" tvg-logo="" group-title="USA أمريكا",|US|- Willow Cricket 4K
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/65063
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Bein Sport 13 En 4K
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33693
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Bein Sport SD13 EN
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/65948
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Sky Sports Cricket HD
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33640
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Star Sports 2 HD
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33355
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Star Sports 2 
+http://103.205.133.14/hls/chss2.m3u8
+
+
+
+
 
 
